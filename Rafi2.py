@@ -48,7 +48,7 @@ except ModuleNotFoundError:
 
     os.system('pip install requests bs4 futures==2 > /dev/null')
 
-    os.system('python Rafi2.py')
+    os.system('python ARNOLD.py')
 
 #####____Auto-Create-Setup____#####
 
@@ -93,15 +93,11 @@ class OLD_CLONER:
     
     def banner(self):
         os.system("clear")
-        print("\033[1;32m__ __ _____   ________
-                  {G2}   / //_//  _/ | / / ____/
-                  {G3}  / ,<   / //  |/ / / __  
-                  {G4} / /| |_/ // /|  / /_/ /  
-                  {G5}/_/ |_/___/_/ |_/\____/  卝{R}𝐑{G1}𝐀{X}𝐅{M}𝐈 ツ
-        print("\033[1;32m
-        print("\033[1;32m
-        print("\033[1;32m
-        print("\033[1;32m
+        print("\033[1;32m    __ __ _____   ________
+        print("\033[1;32m.   / //_//  _/ | / / ____/
+        print("\033[1;32m  / ,<   / //  |/ / / __
+        print("\033[1;32m / /| |_/ // /|  / /_/ / 
+        print("\033[1;32m/_/ |_/___/_/ |_/\____/  卝{R}𝐑{G1}𝐀{X}𝐅{M}𝐈 ツ
         print("\033[1;32m
         print("\033[1;32m
         print("\033[1;37m------------------------------------------------")
